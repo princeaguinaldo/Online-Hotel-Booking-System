@@ -3,7 +3,7 @@
 This project is a **Hotel Booking System** web application for managing hotel room listings and reservations.
 
 The original UI/UX design can be viewed here:  
-https://www.figma.com/design/tqISAaRLTTHZJ0FLy7UXp3/Hotel-Booking-System
+[https://www.figma.com/design/tqISAaRLTTHZJ0FLy7UXp3/Hotel-Booking-System](https://www.figma.com/make/tqISAaRLTTHZJ0FLy7UXp3/Hotel-Booking-System?t=GEb1PWtecChV4vfE-20&fullscreen=1)
 
 ---
 
